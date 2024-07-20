@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Manthan1310
 - 👀 I’m interested in pyhton programming
-- 🌱 I’m currently learning amazon web services
+- 🌱 I’m currently Mastering amazon web services
 - 💞️ I’m looking to collaborate on good project based on AWS
-- 📫 How to reach me manthantandel557@gmail.com
+- 📫 How to reach me tandelmanthan2508@gmail.com
 
 <!---
 Manthan1310/Manthan1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
